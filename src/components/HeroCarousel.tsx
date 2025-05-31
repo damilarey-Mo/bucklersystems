@@ -85,7 +85,7 @@ export default function HeroCarousel() {
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
-      <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/10 to-black/20" />
+      <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/10 to-black/20" />
       <div className="embla overflow-hidden h-full" ref={emblaRef}>
         <div className="embla__container flex h-full">
           {carouselSlides.map((slide, index) => (
