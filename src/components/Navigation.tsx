@@ -40,7 +40,7 @@ const Navigation = () => {
               Contact
             </Link>
             <a
-              href="tel:+1234567890"
+              href="tel:+2348065555009"
               className="flex items-center space-x-2 bg-red-600 text-white px-4 py-2 rounded-md hover:bg-red-700 transition-colors"
             >
               <Phone className="h-5 w-5" />
@@ -93,7 +93,7 @@ const Navigation = () => {
               Contact
             </Link>
             <a
-              href="tel:+1234567890"
+              href="tel:+2348065555009"
               className="flex items-center space-x-2 px-3 py-2 text-white bg-red-600 hover:bg-red-700 rounded-md"
             >
               <Phone className="h-5 w-5" />
