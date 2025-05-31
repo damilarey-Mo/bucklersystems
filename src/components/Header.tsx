@@ -1,4 +1,4 @@
-import Link from 'next/link';
+// Removed Link import as it's not used
 
 export default function Header() {
   return (
